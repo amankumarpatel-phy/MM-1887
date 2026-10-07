@@ -39,5 +39,4 @@ Install the dependencies and start Streamlit with:
 **MM-1887 Virtual Laboratory**  
 *Computational Interferometry & Historical Experimental Physics*
 
-Made with ❤️ by **Aman Kumar Patel** · Physics Educator · Condensed Matter Physics  
-**Aman Edge Physics** · Computational Physics & Scientific Visualization
+Made with ❤️ by **Aman Kumar Patel**
