@@ -19,8 +19,7 @@ def footer():
     st.markdown("""
     <div class="mm-footer">
       <strong>MM-1887 Virtual Laboratory</strong><br>
-      Made with ❤️ by <strong>Aman Kumar Patel</strong> · Physics Educator · Condensed Matter Physics<br>
-      <span>Aman Edge Physics</span> · Computational Physics &amp; Scientific Visualization
+      Made with ❤️ by <strong>Aman Kumar Patel</strong>
     </div>
     """, unsafe_allow_html=True)
 
